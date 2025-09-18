@@ -4,7 +4,7 @@
 
 #### _A study of obedience and dissonance reframing authority through fiduciary–epistemic theory_
 
-by Peter Kahl, 26 June 2025
+by Peter Kahl, 18 September 2025
 
 ![alt text](https://github.com/Peter-Kahl/Atrocity-as-Epistemic-Failure/blob/main/atrocity.jpg?raw=true)
 
@@ -12,7 +12,7 @@ by Peter Kahl, 26 June 2025
 
 This paper examines the psychology and epistemology of Nazi concentration camp guards through an innovative framework that integrates classical social psychology with contemporary epistemic theory. Building on Adorno’s authoritarian personality, Milgram’s obedience experiments, and Asch’s conformity studies, it situates guards not merely as pathological sadists but as epistemic subjects shaped by systemic betrayal.
 
-The paper advances three normative contributions. First, it redefines atrocity not simply as moral pathology or individual evil but as an epistemic failure: the collapse of candour, care, and loyalty in relations of authority. Guards exemplified this collapse through recursive clientelist bargains, trading autonomy for recognition, belonging, and safety while sustaining a regime that betrayed their epistemic vulnerability. Second, it redefines authority. Against Raz’s influential account of authority as the power to provide pre-emptive reasons for action, this study reconceives authority as fiduciary–epistemic trusteeship: a structurally distinct form of dependence that dignifies autonomy by embedding duties of candour, care, and loyalty. Third, it proposes that atrocity prevention requires fiduciary–epistemic scaffolds, institutional arrangements that preserve dissonance as bounded freedom and thereby resist collapse into clientelism.
+The paper advances three normative contributions. First, it redefines atrocity not simply as moral pathology or individual evil but as an _epistemic failure_: the collapse of candour, care, and loyalty in relations of authority. Guards exemplified this collapse through recursive clientelist bargains, trading autonomy for recognition, belonging, and safety while sustaining a regime that betrayed their epistemic vulnerability. Second, it redefines authority. Against Raz’s influential account of authority as the power to provide pre-emptive reasons for action, this study reconceives authority as _fiduciary–epistemic trusteeship_: a structurally distinct form of dependence that dignifies autonomy by embedding duties of candour, care, and loyalty. Third, it proposes that atrocity prevention requires _fiduciary–epistemic scaffolds_, institutional arrangements that preserve dissonance as bounded freedom and thereby resist collapse into clientelism.
 
 Finally, the paper gestures to the broader horizon of an epistemic constitution: a framework of institutional guarantees capable of safeguarding pluralism, protecting dissent, and ensuring that dependence is dignified rather than exploited. In doing so, it positions the guard as both a cautionary figure of epistemic collapse and a lens for envisioning resilient epistemic orders where authority can be legitimate only if it functions as fiduciary trusteeship.
 
