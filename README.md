@@ -8,7 +8,7 @@ by Peter Kahl, 19 September 2025
 
 DOI: 10.13140/RG.2.2.15123.34089
 
-![alt text](https://github.com/Peter-Kahl/Atrocity-as-Epistemic-Failure/blob/main/atrocity.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/blob/main/atrocity.jpg?raw=true)
 
 ### Abstract
 
@@ -26,7 +26,7 @@ authoritarianism, architecture of obedience, epistemic clientelism, fiduciary–
 
 ### Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Atrocity-as-Epistemic-Failure/master/Kahl_P_Authoritarianism_and_the_Architecture_of_Obedience_2025-09-19.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/master/Kahl_P_Authoritarianism_and_the_Architecture_of_Obedience_2025-09-19.pdf)
 
 ### Cite this work
 
