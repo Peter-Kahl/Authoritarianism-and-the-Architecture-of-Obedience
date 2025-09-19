@@ -29,7 +29,7 @@ authoritarianism, architecture of obedience, epistemic clientelism, fiduciary–
 ### Cite this work
 
 ```
-Kahl, P. (2025). Authoritarianism and the Architecture of Obedience: From Fiduciary–Epistemic Trusteeship to Clientelist Betrayal. Lex et Ratio Ltd. https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience
+Kahl, P. (2025). Authoritarianism and the architecture of obedience: From fiduciary–epistemic trusteeship to clientelist betrayal. Lex et Ratio Ltd. https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience
 ```
 
 ### Publisher & Licence
@@ -37,4 +37,5 @@ Kahl, P. (2025). Authoritarianism and the Architecture of Obedience: From Fiduci
 First published in London by Lex et Ratio Ltd, 19 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
