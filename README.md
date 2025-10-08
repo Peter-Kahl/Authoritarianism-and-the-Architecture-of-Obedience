@@ -2,8 +2,6 @@
 
 ### From Fiduciary–Epistemic Trusteeship to Clientelist Betrayal
 
-_(A study of obedience and dissonance reframing authority through the camp guard’s epistemic condition)_
-
 by Peter Kahl, 19 September 2025
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.15123.34089-blue.svg)](https://doi.org/10.13140/RG.2.2.15123.34089)
@@ -21,6 +19,10 @@ Guards thus appear both as enforcers and casualties: participants in atrocity, y
 ## Keywords
 
 authoritarianism, architecture of obedience, epistemic clientelism, fiduciary–epistemic trusteeship, authority, fiduciary breach, atrocity as epistemic failure, camp guards, obedience and conformity, cognitive dissonance, bounded freedom, epistemic subjugation, Volksgemeinschaft, propaganda, fiduciary duties, epistemic constitution, pluralism
+
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## Download
 
