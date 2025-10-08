@@ -22,8 +22,6 @@ Guards thus appear both as enforcers and casualties: participants in atrocity, y
 
 authoritarianism, architecture of obedience, epistemic clientelism, fiduciary–epistemic trusteeship, authority, fiduciary breach, atrocity as epistemic failure, camp guards, obedience and conformity, cognitive dissonance, bounded freedom, epistemic subjugation, Volksgemeinschaft, propaganda, fiduciary duties, epistemic constitution, pluralism
 
----
-
 ## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/master/Kahl_P_Authoritarianism_and_the_Architecture_of_Obedience_2025-09-19.pdf)
