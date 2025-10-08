@@ -8,7 +8,7 @@ by Peter Kahl, 19 September 2025
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.15123.34089-blue.svg)](https://doi.org/10.13140/RG.2.2.15123.34089)
 
-![alt text](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/blob/main/atrocity.jpg?raw=true)
+![A solitary, leafless tree stands in a dense grey fog, its dark branches sprawling like veins against the pale void. The ground is obscured, horizon erased, leaving only the stark geometry of the trunk and branches—rigid, skeletal, and isolated in silence.](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/blob/main/atrocity.jpg?raw=true)
 
 ### Abstract
 
