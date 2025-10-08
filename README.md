@@ -10,7 +10,7 @@ by Peter Kahl, 19 September 2025
 
 ![A solitary, leafless tree stands in a dense grey fog, its dark branches sprawling like veins against the pale void. The ground is obscured, horizon erased, leaving only the stark geometry of the trunk and branches—rigid, skeletal, and isolated in silence.](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/blob/main/atrocity.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 This paper develops a theory of authoritarianism as an _architecture of obedience_, integrating classical social psychology with fiduciary–epistemic theory. It argues that obedience is not merely behavioural but epistemic: to obey is to substitute another’s judgment for one’s own, to silence conscience, and to inhabit categories fabricated by authority. Situating Nazi concentration camp guards within this framework, the analysis reframes them not as aberrant sadists but as epistemic subjects shaped by systemic betrayal.
 
@@ -18,22 +18,22 @@ The argument advances four contributions. _Diagnostic_: authoritarianism is anal
 
 Guards thus appear both as enforcers and casualties: participants in atrocity, yet entrapped in an epistemic order that converted trust into betrayal. Their condition exposes authoritarianism as fiduciary breach in nuce, where candour, care, and loyalty collapse into propaganda, coercion, and distortion. By analysing the guard as an epistemic subject, the paper provides a framework for diagnosing past atrocities and for resisting new architectures of obedience, from populist propaganda to algorithmic governance.
 
-### Keywords
+## Keywords
 
 authoritarianism, architecture of obedience, epistemic clientelism, fiduciary–epistemic trusteeship, authority, fiduciary breach, atrocity as epistemic failure, camp guards, obedience and conformity, cognitive dissonance, bounded freedom, epistemic subjugation, Volksgemeinschaft, propaganda, fiduciary duties, epistemic constitution, pluralism
 
 ---
 
-### Download
+## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/master/Kahl_P_Authoritarianism_and_the_Architecture_of_Obedience_2025-09-19.pdf)
 
-### Cite this work
+## Cite this work
 
-Kahl, P. (2025). Authoritarianism and the architecture of obedience: From fiduciary–epistemic trusteeship to clientelist betrayal. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience DOI: https://doi.org/10.13140/RG.2.2.15123.34089
+Kahl, P. (2025). _Authoritarianism and the architecture of obedience: From fiduciary–epistemic trusteeship to clientelist betrayal_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience DOI: https://doi.org/10.13140/RG.2.2.15123.34089
 
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in London by Lex et Ratio Ltd, 19 September 2025.
 
