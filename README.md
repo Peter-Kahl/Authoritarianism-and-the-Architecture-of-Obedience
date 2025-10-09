@@ -2,9 +2,9 @@
 
 ### From Fiduciary–Epistemic Trusteeship to Clientelist Betrayal
 
-by Peter Kahl, 19 September 2025
+by Peter Kahl, 2025-09-19
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.15123.34089-blue.svg)](https://doi.org/10.13140/RG.2.2.15123.34089)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.15123.34089-blue.svg)](https://doi.org/10.13140/RG.2.2.15123.34089) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A solitary, leafless tree stands in a dense grey fog, its dark branches sprawling like veins against the pale void. The ground is obscured, horizon erased, leaving only the stark geometry of the trunk and branches—rigid, skeletal, and isolated in silence.](https://github.com/Peter-Kahl/Authoritarianism-and-the-Architecture-of-Obedience/blob/main/atrocity.jpg?raw=true)
 
@@ -35,7 +35,7 @@ Kahl, P. (2025). _Authoritarianism and the architecture of obedience: From fiduc
 
 ## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 19 September 2025.
+First published in London by Lex et Ratio Ltd, 2025-09-19.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
